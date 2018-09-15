@@ -49,7 +49,6 @@ target_link_libraries(${PROJECT_NAME}_plugin
   ${PROJECT_NAME}
 )
 
-
 #############
 ## Install ##
 #############

@@ -31,7 +31,7 @@
 #include "DynamicPath.h"
 #include "Timer.h"
 #include "Config.h"
-#include "Math.h"
+#include "PSMath.h"
 #include <assert.h>
 #include <stdlib.h>
 #include <stdio.h>

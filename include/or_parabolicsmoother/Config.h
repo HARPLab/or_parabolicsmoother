@@ -4,7 +4,7 @@
 #include <assert.h>
 #include <openrave/openrave.h>
 
-#include "Math.h"
+#include "PSMath.h"
 
 ///assertion function
 #define PARABOLIC_RAMP_ASSERT(x)

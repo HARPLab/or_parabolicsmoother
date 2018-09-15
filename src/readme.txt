@@ -24,7 +24,7 @@ Timer.h/cpp
   - A timer, used in DynamicPath::OnlineShortcut.  These files and
     the code for OnlineShortcut can be safely removed if online
     shortcutting is not used in your program.
-Math.h
+PSMath.h
   - Definitions of basic math subroutines.
 Config.h
   - Constant configuration parameters regarding numerical tolerances
@@ -45,7 +45,7 @@ compiler.  Optionally, documentation can be generated using the
 doxygen tool by running the command 'doxygen doxygen.conf' in this
 directory.
 
-The definitions in Config.h and Math.h may be altered to suit
+The definitions in Config.h and PSMath.h may be altered to suit
 the needs of your project.
 
 ** II.A. Basic Smoothing **
